@@ -1,0 +1,3 @@
+User-agent: 
+Allow: /
+Sitemap: https://pretoria-community-kitchen.netlify.app/sitemap.xml
